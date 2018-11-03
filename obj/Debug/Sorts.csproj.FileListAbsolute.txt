@@ -1,0 +1,7 @@
+c:\users\alien\documents\visual studio 2017\Projects\Sorts\Sorts\obj\Debug\Sorts.csprojAssemblyReference.cache
+c:\users\alien\documents\visual studio 2017\Projects\Sorts\Sorts\obj\Debug\Sorts.csproj.CoreCompileInputs.cache
+c:\users\alien\documents\visual studio 2017\Projects\Sorts\Sorts\bin\Debug\Sorts.exe.config
+c:\users\alien\documents\visual studio 2017\Projects\Sorts\Sorts\bin\Debug\Sorts.exe
+c:\users\alien\documents\visual studio 2017\Projects\Sorts\Sorts\bin\Debug\Sorts.pdb
+c:\users\alien\documents\visual studio 2017\Projects\Sorts\Sorts\obj\Debug\Sorts.exe
+c:\users\alien\documents\visual studio 2017\Projects\Sorts\Sorts\obj\Debug\Sorts.pdb
